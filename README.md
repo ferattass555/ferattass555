@@ -21,8 +21,6 @@ Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" k
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ferattass555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ferattass555&icon=6&color=0)](https://visitcount.itsvg.in)
