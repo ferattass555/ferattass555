@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" kullanıcı adıyla aktifim. Programlama alanında kendimi geliştirmeye odaklanıyorum ve çeşitli dillerde deneyimim bulunuyor. Python, Java, JavaScript, HTML, CSS, JS, MSSQL, MySQL ve Ruby gibi teknolojileri kullanarak web geliştirme konusunda deneyim sahibiyim.<br><br>Ayrıca, QrFooder adında bir projeyi yönetiyorum. Bu projede, QR kod teknolojisi üzerine odaklanarak yemek sektöründe kullanıcı dostu bir çözüm sunmayı hedefliyoruz.<br><br>Teknoloji dışında ilgi duyduğum alanlar arasında doğa fotoğrafçılığı yer alıyor. Boş zamanlarımda manzara ve vahşi yaşam fotoğrafları çekmek benim için büyük bir keyif. Aynı zamanda doğada yürüyüş yapmak ve kamp yapmak da rahatlama ve keşif için harika bir fırsat sağlıyor.<br><br>Eğer projelerimle ilgili veya işbirlikleriyle ilgili herhangi bir konuda iletişim kurmak isterseniz, aşağıdaki iletişim bilgilerimden bana ulaşabilirsin:
+Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" kullanıcı adıyla aktifim. Programlama alanında kendimi geliştirmeye odaklanıyorum ve çeşitli dillerde deneyimim bulunuyor. Python, Java, JavaScript, HTML, CSS, JS, MSSQL, MySQL ve Ruby gibi teknolojileri kullanarak web geliştirme konusunda deneyim sahibiyim.<br><br>Ayrıca, QrFooder adında bir projeyi yönetiyorum. Bu projede, QR kod teknolojisi üzerine odaklanarak restoran ve kafe sektöründe kullanıcı dostu bir çözüm sunmayı hedefliyoruz.<br><br>Teknoloji dışında ilgi duyduğum alanlar arasında doğa fotoğrafçılığı yer alıyor. Boş zamanlarımda manzara ve vahşi yaşam fotoğrafları çekmek benim için büyük bir keyif. Aynı zamanda doğada yürüyüş yapmak ve kamp yapmak da rahatlama ve keşif için harika bir fırsat sağlıyor.<br><br>Eğer projelerimle ilgili veya işbirlikleriyle ilgili herhangi bir konuda iletişim kurmak isterseniz, aşağıdaki iletişim bilgilerimden bana ulaşabilirsin:
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" k
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ferattass555&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ferattass555&limit=5&theme=dark&combine_all_yearly_contributions=true)
