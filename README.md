@@ -16,6 +16,8 @@ Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" k
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ferattass555&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![snake gif](https://github.com/YOUR_USERNAME/ferattass555/blob/output/github-contribution-grid-snake.gif)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ferattass555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
