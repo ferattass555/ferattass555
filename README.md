@@ -21,10 +21,20 @@ Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" k
 ![](https://github-contributor-stats.vercel.app/api?username=ferattass&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ferattass&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
 
 
 ![snake gif](https://github.com/ferattass/ferattass/blob/output/github-contribution-grid-snake.gif)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
