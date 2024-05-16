@@ -27,4 +27,4 @@ Merhaba! Ben Ferat, bilgisayar mühendisliği öğrencisi ve GitHub'da "tesla" k
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/ferattass555/ferattass555/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ferattass555/blob/output/github-contribution-grid-snake.gif)
